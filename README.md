@@ -1,3 +1,2 @@
 # Demo
-
-Cse499
+Project of Cse499 Senior Design Project
