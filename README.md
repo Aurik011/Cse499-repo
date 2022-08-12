@@ -78,3 +78,41 @@ PROPOSALS 2
 </body>
 </html>
 
+## BACKGROUND AND SIGNIFICANCE(updated)
+In our country Bangladesh, we don’t have many chatbots to look forward to re-
+garding health related issues, be it for women, children or adolescents. We have
+
+many simple chatbots for e-commerce websites as well as telecom companies
+but not for our health issues. The ones that are available are either with limited
+functionality or have problems like lack of updates and app crashes.There is
+also no support for Bengali language as the datasets are non-existent as of 18
+
+November, 2021. We have set up a team of enthusiasts and our project will fo-
+cus on common and uncommon mental health/depression, women’s health, and
+
+taboo related. Sometimes teenagers face reproductive problems and can not
+express their concerns and go to search engines like Google, Bing, Duckduckgo
+etc. We have understood that if we could find a platform that suits Bangladesh,
+we could Provide these children and teenagers with their health problems. The
+alternative is that these teenagers could find wrong information on the internet
+and these could put them into serious health risks, as we’ve seen in the past in
+many underdeveloped and developing countries.
+As many of us suffer from these kinds of problems, there is actually no one
+to talk about it. Many people don’t like to hear other people’s problems as their
+own life is full of problems already. So our aim is to create something so people
+can open themselves instead of keeping it in mind.
+To implement this project, we would like to apply NLP (Natural Language
+Processing). We can use term frequency and document frequency to understand
+how often a word is used or how important a word is to a document. Like if any
+
+1
+
+user just repeating words related to suicide/depression, then chatbot will detect
+that and turn the conversation in a way that the user can express his mind in
+a more specific way and get immediate help. We used Normalization processes
+to check spelling of different user inputs. Recognizing Entities can help us to
+find out which topic. It can be a year such as 2021, a person’s name such as
+Tahmid, Noshin, Anjum, Ahnaf, Aurik etc.
+Our aim is to make this chatbot as interactive as possible. That’s why we
+gave both options of either voice input question answering system or type input
+system.
